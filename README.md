@@ -1,3 +1,3 @@
-# Kokoa Clone 2024 Update
+# bonbon-kokoaclone
 
 Html and CSS are so much fun!
